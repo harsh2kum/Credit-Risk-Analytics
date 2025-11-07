@@ -79,7 +79,8 @@ It bridges technical skills (Python, SQL, BI) with business understanding, makin
 
 ## 👨‍💻 **Author**
 **Harsh Kumar**  
-Data Science Enthusiast 
+🎓 B.Tech – Computer Science & Data Science Engineering
+🏫 ABES Engineering College, Ghaziabad
 📍 India  
 🔗 [LinkedIn](https://www.linkedin.com/in/harshku/) | [GitHub](https://github.com/harsh2kum)
 
